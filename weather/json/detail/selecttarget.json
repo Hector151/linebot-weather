@@ -1,0 +1,17 @@
+{
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "請輸入股票代號",
+            "data": "target"
+          }
+        }
+      ]
+    }
+  }
